@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LED_LTL-4233_LTO")(type "KiCad")(uri "${KIPRJMOD}/library/LED_LTL-4233_LTO.pretty")(options "")(descr ""))
+  (lib (name "TerminalBlock_OSTVN04A150")(type "KiCad")(uri "${KIPRJMOD}/library/TerminalBlock_OSTVN04A150.pretty")(options "")(descr ""))
+)

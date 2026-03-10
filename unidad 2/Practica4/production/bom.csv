@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+CONECTOR,TerminalBlock_CONN_OSTVN04A150_OST,1,OSTVN04A150,
+"LED1, LED2, LED3",LED_LTL-4233_LTO,3,LED,
+"R1, R2, R3",0805,3,220,

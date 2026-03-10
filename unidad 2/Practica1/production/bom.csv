@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,0805,1,LED,
+J1,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Pin,
+J2,PinHeader_1x01_P2.54mm_Vertical,1,Conn_01x01_Pin,
+R1,0805,1,R,
+RV1,Potentiometer_Bourns_3339P_Vertical_HandSoldering,1,R_Potentiometer,
