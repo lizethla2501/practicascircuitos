@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,0805,1,LED,
+"R1, R2",0805,2,220,
+SW1,SW_Push_SPST_NO_Alps_SKRK,1,SW_Push,
+U1,ESP32_DEVKIT_V1,1,ESP32-DEVKIT-V1,
